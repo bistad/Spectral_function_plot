@@ -134,7 +134,7 @@ This script will generate a plot of the spectral function, showing the relations
 
 Contributing
 
-We welcome contributions from members of our research group! If you have suggestions for improvements or new features, please feel free to fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+We welcome contributions from everyone, especially from members of our research group! If you have suggestions for improvements or new features, please feel free to fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 License
 
