@@ -123,11 +123,12 @@ def plot_spectral_function(df,filename=None):
     ax.set_ylim(-3.5,2.5)
     plt.axhline(y=0, xmin=0, xmax=3.75804,color='white',linestyle="--")
     plt.tight_layout()
+    plt.title("Spectral function of L1$_0$ phase FePt")
     if filename:
-        plt.savefig(filename, format="svg")
+        plt.savefig(filename, format="png")
     plt.show()
     
-plot_spectral_function(df,filename="fept.svg")
+plot_spectral_function(df,filename="fept.png")
 ```
 This script will generate a plot of the spectral function, showing the relationship between distance (along symmetry points), energy, and the average spectral function through the broadening of the plot.
 
