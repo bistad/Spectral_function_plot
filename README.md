@@ -24,7 +24,7 @@ git clone https://github.com/bistad/Spectral_function_plot.git
 ## Usage
 **Running DFT(Questaal) Calculations using python**
 
-Prepare your `script.sh` file with the appropriate Questaal commands for your DFT calculations. Run the following command in the terminal to submit your job to the system:
+Prepare your `script.sh` file with the appropriate Questaal commands for your DFT calculations, input file ctrl.extension(ctrl.fept in our example), and syml.fept file with information on symmetry points. Assuming these three files in the same folder, run the following command in the terminal to submit your job to the system:
 
 ```python
 import subprocess
