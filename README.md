@@ -23,6 +23,7 @@ Running DFT Calculations with Questaal
     Prepare your script.sh file with the appropriate Questaal commands for your DFT calculations.
     Run the following command in the terminal to submit your job to the system:
 
+    ```python
     sh
 
     sbatch script.sh
