@@ -14,7 +14,7 @@ This repository contains scripts and instructions for performing Density Functio
 ## Installation and Setup
 
     Clone this repository to your local machine using git clone [github link](https://github.com/bistad/Spectral_function_plot).
-    Ensure that Questaal is installed and correctly configured on your system. Refer to the official Questaal documentation for installation instructions.
+    Ensure that Questaal is installed and correctly configured on your system. Refer to the official Questaal documentation for  installation instructions.
     Install the required Python packages by running pip install pandas matplotlib.
 
 ## Usage
