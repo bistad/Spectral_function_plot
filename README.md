@@ -34,7 +34,7 @@ Data Processing
     Preprocess the spf.fept file to extract symmetry points and generate the output.csv file. This step might require a custom script based on your specific needs.
     Use the following Python snippet to import the output.csv file, preprocess the data, and calculate the average spectral function:
 
-    python
+    '''python
 
     import pandas as pd
 
